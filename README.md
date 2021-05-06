@@ -1,5 +1,5 @@
 # 1st-Test-Discord-Bot
-First Discord bot I made for testing stuff
+Experimenting with a Discord bot
 
 Install dotenv and add an .env file with the environmental variable:
 
