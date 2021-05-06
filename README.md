@@ -7,9 +7,9 @@ BOT_TOKEN = 'your Discord bot token'
 
 Current commands:
 
-!ping - shows ping in milliseconds
+  - !ping - shows ping in milliseconds
 
-!cat - shows random img of a cat using a random cat image API
+  - !cat - shows random img of a cat using a random cat image API
 
 Planned stuff:
   - experiment with league of legends API
